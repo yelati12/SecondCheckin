@@ -12,7 +12,7 @@ public class LaunchApp {
 		WebDriver driver = new FirefoxDriver();
 		
 		driver.get("http://127.0.0.1/orangehrm-2.5.0.2/login.php");
-		
+	system.out.println("Printin");
 	}
 
 }
